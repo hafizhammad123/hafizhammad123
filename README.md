@@ -1,14 +1,14 @@
 ![logo](https://raw.githubusercontent.com/hafizhammad123/hafizhammad123/a4fce8ab1eb0f07e47862d423bb790f81d2bd8e4/programming-code-on-the-computer-screen-software-vector-49474313.jpg)
 
 <h1 align="center">Hi 👋, I'm Muhammad Hammad</h1>
-<h3 align="center">"MERN Stack Expert and Application Developer"</h3>
+<h3 align="center">"MERN Stack Developer"</h3>
 <img align="right" alt="coding" width="400" src="https://luatgiale.vn/wp-content/uploads/2019/09/sales-manager-dl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizhammad123&label=Profile%20views&color=0e75b6&style=flat" alt="hafizhammad123" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 "I am looking for an internship
 
-- 📫 How to reach me **https://webgraphstudio.netlify.app/**
+- 📫 How to reach me **https://my-web-development-portfolio.vercel.app/**
 
 - ⚡ Fun fact **I am funny 🥰**
 
